@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Laksh Marketing and Solution</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px;
+      background: #f5f5f5;
+    }
+    h1 {
+      color: #1a1a1a;
+    }
+    p {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Laksh Marketing and Solution</h1>
+  <p>We provide quality LED lighting solutions for your home and business.</p>
+  <p>Contact us: laksh@example.com</p>
+</body>
+</html>
