@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Laksh Marketing and Solution</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Laksh Marketing and Solution</h1>
+    <p>Your trusted LED lighting partner</p>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We specialize in high-quality, energy-efficient LED lighting solutions for homes, offices, and industries. Our mission is to light up your world with innovation and reliability.</p>
+  </section>
+
+  <section id="products">
+    <h2>Our Products</h2>
+    <ul>
+      <li>LED Bulbs</li>
+      <li>Panel Lights</li>
+      <li>Street Lights</li>
+      <li>Flood Lights</li>
+      <li>Decorative Lights</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: contact@lakshmarketing.com</p>
+    <p>Phone: +91-9876543210</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Laksh Marketing and Solution. All rights reserved.</p>
+  </footer>
+</body>
+</html>
